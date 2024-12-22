@@ -49,11 +49,4 @@ This LMS platform is poised to disrupt the online education landscape by offerin
 - **Course Creation Tools**: Node-based editor for easy course creation.
 - **Scalable Architecture**: Built to handle growing user bases and content.
 
-## Tech Stack
-- **Frontend**: React, HTML5, CSS3
-- **Backend**: Node.js, Express.js
-- **Database**: MySQL/PostgreSQL
-- **Authentication**: JWT, OAuth
-- **Cloud**: AWS, Google Cloud
-- **APIs**: RESTful APIs, GraphQL
 
